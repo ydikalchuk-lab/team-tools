@@ -1,0 +1,13 @@
+{
+  "name": "team-tools",
+  "owner": {
+    "name": "ydikalchuk-lab"
+  },
+  "plugins": [
+    {
+      "name": "team-kit",
+      "source": "./team-kit",
+      "description": "Team commit-changes and prompt-improve skills"
+    }
+  ]
+}
